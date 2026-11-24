@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+output/
+*.xm
+*.x3m
+*.m4a
+*.mp3
